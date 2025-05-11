@@ -1,0 +1,14 @@
+name: TechSurvival
+main: techsurvival.TechSurvivalPlugin
+version: 1.2
+api-version: 1.21
+author: Ferran Brancal
+commands:
+  chunkinfo:
+    description: Muestra info técnica del chunk actual.
+    usage: /chunkinfo
+    permission: none
+  mobcounter:
+    description: Cuenta mobs por tipo en un radio dado.
+    usage: /mobcounter [radio]
+    permission: none

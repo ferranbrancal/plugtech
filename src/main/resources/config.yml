@@ -1,0 +1,17 @@
+messages:
+  chunkinfo:
+    header: "&a[ChunkInfo]"
+    coordinates: "&fCoordenadas del chunk: X=%x% Z=%z%"
+    slime: "&fSlime chunk: %slime%"
+    entities: "&fEntidades en el chunk: %entities%"
+    slime-yes: "&aSí"
+    slime-no: "&cNo"
+  mobcounter:
+    header: "&e[Mobs en radio %radius%]"
+    entry: "&f%type%: %count%"
+
+display:
+  use-actionbar: true
+  show-particles: true
+
+developer: "Ferran Brancal"
